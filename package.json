@@ -3,24 +3,24 @@
     "name": "aspgems-extension-pack",
     "displayName": "aspgems extension pack",
     "description": "Common extensions for the ASPgems development team",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.39.0"
     },
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
-        "bung87.rails", 
-        "eamodio.gitlens", 
-        "formulahendry.docker-explorer", 
-        "mhutchie.git-graph", 
+    "extensionPack": [
+        "bung87.rails",
+        "eamodio.gitlens",
+        "formulahendry.docker-explorer",
+        "mhutchie.git-graph",
         "ms-azuretools.vscode-docker",
-        "ninoseki.vscode-gem-lens", 
-        "rebornix.ruby", 
+        "ninoseki.vscode-gem-lens",
+        "rebornix.ruby",
         "redhat.vscode-yaml"
     ],
-    "repository":{
+    "repository": {
         "type": "git",
         "url": "https://github.com/aspgems/vscode-extension-pack.git"
     },
