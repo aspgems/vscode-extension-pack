@@ -27,5 +27,11 @@
         "url": "https://github.com/aspgems/vscode-extension-pack.git"
     },
     "homepage": "https://github.com/aspgems/vscode-extension-pack",
-    "icon": "icon.png"
+    "icon": "icon.png",
+    "scripts": {
+        "deploy": "vsce publish -p"
+    },
+    "devDependencies": {
+        "vsce": "^1.68.0"
+    }
 }
