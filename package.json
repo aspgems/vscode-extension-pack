@@ -3,7 +3,7 @@
     "name": "aspgems-extension-pack",
     "displayName": "aspgems extension pack",
     "description": "Common extensions for the ASPgems development team",
-    "version": "0.0.6",
+    "version": "0.0.8",
     "engines": {
         "vscode": "^1.39.0"
     },
@@ -29,7 +29,7 @@
     "homepage": "https://github.com/aspgems/vscode-extension-pack",
     "icon": "icon.png",
     "scripts": {
-        "deploy": "vsce publish -p",
+        "deploy": "vsce package && vsce publish -p",
         "test": "echo 'pending'"
     },
     "devDependencies": {
