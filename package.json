@@ -3,7 +3,7 @@
     "name": "aspgems-extension-pack",
     "displayName": "aspgems extension pack",
     "description": "Common extensions for the ASPgems development team",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.39.0"
     },
@@ -19,7 +19,8 @@
         "ninoseki.vscode-gem-lens",
         "rebornix.ruby",
         "redhat.vscode-yaml",
-        "ms-vsliveshare.vsliveshare-pack"
+        "ms-vsliveshare.vsliveshare-pack",
+        "noku.rails-run-spec-vscode"
     ],
     "repository": {
         "type": "git",
