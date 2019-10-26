@@ -20,7 +20,8 @@
         "rebornix.ruby",
         "redhat.vscode-yaml",
         "ms-vsliveshare.vsliveshare-pack",
-        "noku.rails-run-spec-vscode"
+        "noku.rails-run-spec-vscode",
+        "misogi.ruby-rubocop"
     ],
     "repository": {
         "type": "git",
