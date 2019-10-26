@@ -3,7 +3,7 @@
     "name": "aspgems-extension-pack",
     "displayName": "aspgems extension pack",
     "description": "Common extensions for the ASPgems development team",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "engines": {
         "vscode": "^1.39.0"
     },
@@ -20,7 +20,8 @@
         "rebornix.ruby",
         "redhat.vscode-yaml",
         "ms-vsliveshare.vsliveshare-pack",
-        "noku.rails-run-spec-vscode"
+        "noku.rails-run-spec-vscode",
+        "misogi.ruby-rubocop"
     ],
     "repository": {
         "type": "git",
@@ -29,7 +30,7 @@
     "homepage": "https://github.com/aspgems/vscode-extension-pack",
     "icon": "icon.png",
     "scripts": {
-        "deploy": "vsce package && vsce publish -p",
+        "deploy": "vsce publish -p",
         "test": "echo 'pending'"
     },
     "devDependencies": {
