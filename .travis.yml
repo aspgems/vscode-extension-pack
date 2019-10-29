@@ -1,8 +1,13 @@
 language: node_js
 node_js: 8
-branches:
-  only:
-    - master
-script: yarn && yarn deploy $VSCODE_MARKETPLACE_TOKEN
+
+stages:
+  - deploy
+    if: branch = master
+
+jobs:
+  include:
+    - stage: deploy
+      script: yarn && yarn deploy $VSCODE_MARKETPLACE_TOKEN
 
 cache: yarn 
