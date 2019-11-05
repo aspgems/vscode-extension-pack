@@ -3,3 +3,5 @@
 # README
 
 This is the vscode extension pack used by default by the ASPgems development team.
+
+solargraph gem needs to be manually installed
