@@ -3,7 +3,7 @@
     "name": "aspgems-extension-pack",
     "displayName": "aspgems extension pack",
     "description": "Common extensions for the ASPgems development team",
-    "version": "0.0.12",
+    "version": "0.0.13",
     "engines": {
         "vscode": "^1.39.0"
     },
@@ -22,7 +22,8 @@
         "ms-vsliveshare.vsliveshare-pack",
         "noku.rails-run-spec-vscode",
         "misogi.ruby-rubocop",
-        "donjayamanne.githistory"
+        "donjayamanne.githistory",
+        "ms-vscode-remote.vscode-remote-extensionpack"
     ],
     "repository": {
         "type": "git",
