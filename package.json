@@ -11,19 +11,29 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "bung87.rails",
-        "eamodio.gitlens",
-        "formulahendry.docker-explorer",
-        "mhutchie.git-graph",
-        "ms-azuretools.vscode-docker",
-        "ninoseki.vscode-gem-lens",
-        "rebornix.ruby",
-        "redhat.vscode-yaml",
         "ms-vsliveshare.vsliveshare-pack",
-        "noku.rails-run-spec-vscode",
-        "misogi.ruby-rubocop",
+        "ms-vscode-remote.vscode-remote-extensionpack",
+        "auchenberg.vscode-browser-preview",
+        "CodeStream.codestream",
+        "vsls-contrib.spaces",
+        "ritwickdey.LiveServer",
+        "hbenl.vscode-test-explorer-liveshare",
+
+        "eamodio.gitlens",
+        "mhutchie.git-graph",
         "donjayamanne.githistory",
-        "ms-vscode-remote.vscode-remote-extensionpack"
+
+        "formulahendry.docker-explorer",
+        "ms-azuretools.vscode-docker",
+
+        "redhat.vscode-yaml",
+
+        "bung87.rails",
+        "rebornix.ruby",
+        "misogi.ruby-rubocop",
+        "ninoseki.vscode-gem-lens",
+        "noku.rails-run-spec-vscode",
+        "connorshea.vscode-ruby-test-adapter"
     ],
     "repository": {
         "type": "git",
