@@ -29,7 +29,8 @@
         "misogi.ruby-rubocop",
         "ninoseki.vscode-gem-lens",
         "noku.rails-run-spec-vscode",
-        "connorshea.vscode-ruby-test-adapter"
+        "connorshea.vscode-ruby-test-adapter",
+        "vscode-icons-team.vscode-icons"
     ],
     "repository": {
         "type": "git",
