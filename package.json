@@ -3,7 +3,7 @@
     "name": "aspgems-extension-pack",
     "displayName": "aspgems extension pack",
     "description": "Common extensions for the ASPgems development team",
-    "version": "0.5.0",
+    "version": "0.5.1",
     "engines": {
         "vscode": "^1.39.0"
     },
