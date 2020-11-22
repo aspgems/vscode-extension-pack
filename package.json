@@ -23,13 +23,14 @@
         "donjayamanne.githistory",
         "formulahendry.docker-explorer",
         "ms-azuretools.vscode-docker",
-        "redhat.vscode-yaml",
         "bung87.rails",
         "rebornix.ruby",
-        "misogi.ruby-rubocop",
         "ninoseki.vscode-gem-lens",
         "noku.rails-run-spec-vscode",
-        "connorshea.vscode-ruby-test-adapter"
+        "connorshea.vscode-ruby-test-adapter",
+        "kaiwood.endwise",
+        "castwide.solargraph",
+        "vscode-icons-team.vscode-icons"
     ],
     "repository": {
         "type": "git",
