@@ -1,5 +1,37 @@
 This is the vscode extension pack used by default by the ASPgems development team.
 
+# Extensions
+## Remote working
+- ms-vsliveshare.vsliveshare-pack
+- ms-vscode-remote.vscode-remote-extensionpack
+- auchenberg.vscode-browser-preview
+- CodeStream.codestream
+- vsls-contrib.spaces
+- ritwickdey.LiveServer
+
+## Tests
+- hbenl.vscode-test-explorer-liveshare
+
+## Git
+- eamodio.gitlens
+- mhutchie.git-graph
+- donjayamanne.githistory
+
+## Docker
+- formulahendry.docker-explorer
+- ms-azuretools.vscode-docker
+
+## Rrails
+- bung87.rails
+- rebornix.ruby
+- ninoseki.vscode-gem-lens
+- noku.rails-run-spec-vscode
+- connorshea.vscode-ruby-test-adapter
+- kaiwood.endwise
+- castwide.solargraph
+
+## Theming
+- vscode-icons-team.vscode-icons
 # Development
 
 You need to install [vsce](https://github.com/Microsoft/vscode-docs/blob/master/api/working-with-extensions/publishing-extension.md#vsce
