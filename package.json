@@ -29,8 +29,9 @@
         "ninoseki.vscode-gem-lens",
         "noku.rails-run-spec-vscode",
         "connorshea.vscode-ruby-test-adapter",
-        "vscode-icons-team.vscode-icons",
-        "kaiwood.endwise"
+        "kaiwood.endwise",
+        "castwide.solargraph",
+        "vscode-icons-team.vscode-icons"
     ],
     "repository": {
         "type": "git",
