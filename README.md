@@ -21,7 +21,7 @@ This is the vscode extension pack used by default by the ASPgems development tea
 - formulahendry.docker-explorer
 - ms-azuretools.vscode-docker
 
-## Rrails
+## Rails
 - bung87.rails
 - rebornix.ruby
 - ninoseki.vscode-gem-lens
@@ -30,10 +30,12 @@ This is the vscode extension pack used by default by the ASPgems development tea
 - kaiwood.endwise
 - castwide.solargraph
 
+## Stimulus
+- tejanium.stimulusjs
+
 ## Theming
 - vscode-icons-team.vscode-icons
 # Development
-
 You need to install [vsce](https://github.com/Microsoft/vscode-docs/blob/master/api/working-with-extensions/publishing-extension.md#vsce
 )
 In order to publish the extension you need:
