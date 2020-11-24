@@ -12,7 +12,7 @@
     ],
     "extensionPack": [
         "aspgems.aspgems-remote-extension-pack",
-        "aspgems.common-tools-extension-pack",
+        "aspgems.aspgems-common-tools-extensions-pack",
         "aspgems.aspgems-rails-extension-pack"
     ],
     "repository": {
