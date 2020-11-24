@@ -11,26 +11,9 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "ms-vsliveshare.vsliveshare-pack",
-        "ms-vscode-remote.vscode-remote-extensionpack",
-        "auchenberg.vscode-browser-preview",
-        "CodeStream.codestream",
-        "vsls-contrib.spaces",
-        "ritwickdey.LiveServer",
-        "hbenl.vscode-test-explorer-liveshare",
-        "eamodio.gitlens",
-        "mhutchie.git-graph",
-        "donjayamanne.githistory",
-        "formulahendry.docker-explorer",
-        "ms-azuretools.vscode-docker",
-        "bung87.rails",
-        "rebornix.ruby",
-        "ninoseki.vscode-gem-lens",
-        "noku.rails-run-spec-vscode",
-        "connorshea.vscode-ruby-test-adapter",
-        "kaiwood.endwise",
-        "castwide.solargraph",
-        "vscode-icons-team.vscode-icons"
+        "aspgems.aspgems-remote-extension-pack",
+        "aspgems.common-tools-extension-pack",
+        "aspgems.aspgems-rails-extension-pack"
     ],
     "repository": {
         "type": "git",
